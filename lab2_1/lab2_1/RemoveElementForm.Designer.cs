@@ -1,5 +1,5 @@
 ﻿
-namespace lab2._1
+namespace lab2_1
 {
     partial class RemoveElementForm
     {

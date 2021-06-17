@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab2._1
+namespace lab2_1
 {
     public partial class TaskForm : Form
     {
